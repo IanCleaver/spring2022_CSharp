@@ -10,7 +10,6 @@ namespace ListManagement.models
     {
         private string name;
 
-        //C#-style properties
         public string Name
         {
             get
@@ -26,9 +25,54 @@ namespace ListManagement.models
             }
         }
 
-        public string Description { get; set; }
-        public DateTime Deadline { get; set; }
-        public bool IsCompleted { get; set; }
+        private string description;
+        public string Description
+        {
+            get
+            {
+                return description;
+            }
+            set
+            {
+                if(description != value)
+                {
+                    description = value;
+                }
+            }
+        }
+
+        private DateTime deadline;
+        public DateTime Deadline
+        {
+            get
+            {
+                return deadline;
+            }
+            set
+            {
+                if(deadline != value)
+                {
+                    deadline = value;
+                }
+            }
+        }
+
+        private bool isCompleted;
+        public bool IsCompleted
+        {
+            get
+            {
+                return isCompleted;
+            }
+            set
+            {
+                if (isCompleted != value)
+                {
+                    isCompleted = value;
+                }
+            }
+        }
+
 
         public override string ToString()
         {
