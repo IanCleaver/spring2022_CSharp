@@ -1,0 +1,15 @@
+C:\Users\iansc\OneDrive\Desktop\2022 Spring Semester\C#\assignment1\TaskManager\TaskManager\obj\Debug\net6.0\TaskManager.csproj.AssemblyReference.cache
+C:\Users\iansc\OneDrive\Desktop\2022 Spring Semester\C#\assignment1\TaskManager\TaskManager\obj\Debug\net6.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iansc\OneDrive\Desktop\2022 Spring Semester\C#\assignment1\TaskManager\TaskManager\obj\Debug\net6.0\TaskManager.AssemblyInfoInputs.cache
+C:\Users\iansc\OneDrive\Desktop\2022 Spring Semester\C#\assignment1\TaskManager\TaskManager\obj\Debug\net6.0\TaskManager.AssemblyInfo.cs
+C:\Users\iansc\OneDrive\Desktop\2022 Spring Semester\C#\assignment1\TaskManager\TaskManager\obj\Debug\net6.0\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\iansc\OneDrive\Desktop\2022 Spring Semester\C#\assignment1\TaskManager\TaskManager\bin\Debug\net6.0\TaskManager.exe
+C:\Users\iansc\OneDrive\Desktop\2022 Spring Semester\C#\assignment1\TaskManager\TaskManager\bin\Debug\net6.0\TaskManager.deps.json
+C:\Users\iansc\OneDrive\Desktop\2022 Spring Semester\C#\assignment1\TaskManager\TaskManager\bin\Debug\net6.0\TaskManager.runtimeconfig.json
+C:\Users\iansc\OneDrive\Desktop\2022 Spring Semester\C#\assignment1\TaskManager\TaskManager\bin\Debug\net6.0\TaskManager.dll
+C:\Users\iansc\OneDrive\Desktop\2022 Spring Semester\C#\assignment1\TaskManager\TaskManager\bin\Debug\net6.0\ref\TaskManager.dll
+C:\Users\iansc\OneDrive\Desktop\2022 Spring Semester\C#\assignment1\TaskManager\TaskManager\bin\Debug\net6.0\TaskManager.pdb
+C:\Users\iansc\OneDrive\Desktop\2022 Spring Semester\C#\assignment1\TaskManager\TaskManager\obj\Debug\net6.0\TaskManager.dll
+C:\Users\iansc\OneDrive\Desktop\2022 Spring Semester\C#\assignment1\TaskManager\TaskManager\obj\Debug\net6.0\ref\TaskManager.dll
+C:\Users\iansc\OneDrive\Desktop\2022 Spring Semester\C#\assignment1\TaskManager\TaskManager\obj\Debug\net6.0\TaskManager.pdb
+C:\Users\iansc\OneDrive\Desktop\2022 Spring Semester\C#\assignment1\TaskManager\TaskManager\obj\Debug\net6.0\TaskManager.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\iansc\OneDrive\Desktop\2022 Spring Semester\C#\assignment1\TaskManager\TaskManager\obj\Debug\net5.0\TaskManager.csproj.AssemblyReference.cache
+C:\Users\iansc\OneDrive\Desktop\2022 Spring Semester\C#\assignment1\TaskManager\TaskManager\obj\Debug\net5.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iansc\OneDrive\Desktop\2022 Spring Semester\C#\assignment1\TaskManager\TaskManager\obj\Debug\net5.0\TaskManager.AssemblyInfoInputs.cache
+C:\Users\iansc\OneDrive\Desktop\2022 Spring Semester\C#\assignment1\TaskManager\TaskManager\obj\Debug\net5.0\TaskManager.AssemblyInfo.cs
+C:\Users\iansc\OneDrive\Desktop\2022 Spring Semester\C#\assignment1\TaskManager\TaskManager\obj\Debug\net5.0\TaskManager.csproj.CoreCompileInputs.cache
