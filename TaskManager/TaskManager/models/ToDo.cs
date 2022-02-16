@@ -1,4 +1,5 @@
-﻿using System;
+﻿using TaskManager.interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,73 +7,10 @@ using System.Threading.Tasks;
 
 namespace TaskManager.models
 {
-    public class ToDo
+    public class ToDo: Item
     {
-        private string name;
-
-        public string Name
-        {
-            get
-            {
-                return name;
-            }
-            set
-            {
-                if (name != value)
-                {
-                    name = value;
-                }
-            }
-        }
-
-        private string description;
-        public string Description
-        {
-            get
-            {
-                return description;
-            }
-            set
-            {
-                if (description != value)
-                {
-                    description = value;
-                }
-            }
-        }
-
-        private DateTime deadline;
-        public DateTime Deadline
-        {
-            get
-            {
-                return deadline;
-            }
-            set
-            {
-                if (deadline != value)
-                {
-                    deadline = value;
-                }
-            }
-        }
-
-        private bool isCompleted;
-        public bool IsCompleted
-        {
-            get
-            {
-                return isCompleted;
-            }
-            set
-            {
-                if (isCompleted != value)
-                {
-                    isCompleted = value;
-                }
-            }
-        }
-
+        public DateTime Deadline { get; set; }
+        public bool IsCompleted { get; set; }
 
         public override string ToString()
         {
@@ -86,7 +24,7 @@ namespace TaskManager.models
                 temp = "Incomplete";
             }
 
-            return $"{Name}\t {Description}\t\t\t {Deadline}\t {temp}";
+            return $"Task:\t\t{Name}\t {Description}\t\t\t\t {Deadline}\t {temp}";
         }
     }
 }
